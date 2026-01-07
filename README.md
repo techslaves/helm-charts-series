@@ -34,7 +34,6 @@ Notes and documentation for the Helm Charts YouTube vedio series. Below is the i
     - `templates/`
 - Templating basics
 - Overriding values
-- 
 
 ### 🎬 Demo
 
@@ -129,5 +128,5 @@ Notes and documentation for the Helm Charts YouTube vedio series. Below is the i
 - Using dependency helm chart in dev, uat, prod by overriding values
 
 
-Please follow and subscribe to my channel for more DevOps, Cloud, DevSecOps, and other topics of DevOps: [**Tech Hustle with UG**](https://www.youtube.com/@techhustlewithUG)
+**Please follow and subscribe to my channel for more DevOps, Cloud, DevSecOps, and other topics of DevOps: [**Tech Hustle with UG**](https://www.youtube.com/@techhustlewithUG)**
 
