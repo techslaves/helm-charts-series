@@ -1,4 +1,4 @@
-This repository contains notes and documentation for the Helm Charts series. Below is the index of topics covered, along with links to the corresponding YouTube videos.
+Notes and documentation for the Helm Charts YouTube vedio series. Below is the index of topics covered, along with links to the corresponding YouTube videos.
 
 | Topic | YouTube Video |
 | :--- | :--- |
